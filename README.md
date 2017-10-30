@@ -6,7 +6,7 @@ Application uses:
 - Arrays
 - Alerts
 - Else If Statements
-- Logic (<=, <=, ==, AND[&&], OR[||], NOT[!=])
+- Logic (<=, <=, ==, AND [&&], OR [||], NOT [!=])
 - Modules
 - Modulus (%)
 - Number()
