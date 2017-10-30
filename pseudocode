@@ -1,0 +1,3 @@
+//Input date (month day and 4 digit calander year)
+//Validate the data so that month is 1-12 and so that the day is not less than 1 and not greater than the number of days for the corresponding month.
+//If the month is February, in order to validate the day, call a function that returns a value of true if the year is a leap year and false otherwise. Display a message to the user that confirms the validity of the date or the error that occurred.
